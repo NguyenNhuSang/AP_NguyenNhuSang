@@ -1,0 +1,7 @@
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\bin\Debug\AP_NguyenNhuSang.exe.config
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\bin\Debug\AP_NguyenNhuSang.exe
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\bin\Debug\AP_NguyenNhuSang.pdb
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\obj\Debug\AP_NguyenNhuSang.csprojAssemblyReference.cache
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\obj\Debug\AP_NguyenNhuSang.csproj.CoreCompileInputs.cache
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\obj\Debug\AP_NguyenNhuSang.exe
+D:\Visual studio\AP_NguyenNhuSang\AP_NguyenNhuSang\obj\Debug\AP_NguyenNhuSang.pdb
